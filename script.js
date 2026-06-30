@@ -206,9 +206,8 @@ else {
 }
 
 
-// =======================================
 // Task 13 - Salary Increment Calculator
-// =======================================
+
 
 let salary = 62500;
 
@@ -302,7 +301,6 @@ console.log("Total Absent : " + absent);
 
 
 // Mini Project - Employee Management System
-// =======================================
 
 let employeeList = [];
 let menuChoice;
